@@ -6,8 +6,8 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 16px auto;
-  border: 10px solid white;
+  margin: 8px auto;
+  border: 8px solid white;
 }
 
 .title {
@@ -15,6 +15,7 @@ body {
   margin-top: auto;
   margin-bottom: auto;
   padding: 5px;
+  font-size: 16px;
 }
 
 .content {
@@ -27,7 +28,7 @@ body {
   background: #e3f4ff;
   display: block;
   margin-top: 10px;
-  padding: 5px;
+  padding: 8px;
   text-align: center;
 }
 
